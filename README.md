@@ -6,7 +6,7 @@ Malaria is a global health threat caused by the Plasmodium parasite. The early i
 ### Dataset
 A publicly available dataset from the National Institute of Allergy and Infectious Diseases consisting of microscopic images of malaria parasites, is used for comparison of the models. The dataset contains 27,558 images of two balanced classes each patch with the dimension 142 X 148. The class ‘Parasitized’ consists of 13,779 images, and ‘Uninfected' with 13,779 images.
 
-## Methodology
+### Methodology
 We performed a comparative study of existing 6 CNN models on the malaria parasite blood smears dataset. Each model was trained with and without data augmentation techniques involving shear (range=0.2), range (range=0.2), and horizontal and vertical flipping.
 
 Metrics can be found in the Metrics comparison.jpg file 
