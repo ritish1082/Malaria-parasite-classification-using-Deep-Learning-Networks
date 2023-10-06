@@ -1,3 +1,4 @@
 # Malaria parasite classification using Deep Learning Networks
 
 ### Abstarct
+Malaria is a global health threat caused by the Plasmodium parasite. The early identification and classification of the parasite are vital for prompt treatment and improved patient outcomes. However, traditional detection methods depend heavily on expert knowledge for accurate diagnosis, making them challenging to implement. This paper aims to conduct a comprehensive analysis of 6 existing deep learning models including AlexNet, GoogleNet, VGG19, MobileNet, ResNet, and RCCNet utilizing the malaria parasite dataset. Additionally, we perform a comparative evaluation of these models by implementing various Data Augmentation techniques and improving accuracy by 3% reaching maximum accuracy up to 96.73 %. The assessment is centered around key factors such as training duration, precision, weighted f1 score, specificity, and sensitivity.
