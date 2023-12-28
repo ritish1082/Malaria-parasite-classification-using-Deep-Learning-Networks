@@ -14,7 +14,7 @@ In this paper, we conduct a comparative study of various models including **Alex
 
 ### Metrics
 
-![Metrics]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/ritish1082/Malaria-parasite-classification-using-Deep-Learning-Networks/blob/main/Metircs%20Comparision.jpg))
+![Metrics](https://github.com/ritish1082/Malaria-parasite-classification-using-Deep-Learning-Networks/blob/main/Metircs%20Comparision.jpg)
 
 
 ### Conclusion and future scope
