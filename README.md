@@ -1,4 +1,4 @@
-# Malaria parasite classification using Deep Learning Networks
+# Malaria parasite classification using Deep Learning Networks (IEEE GCITC 2023 conference)
 
 ### Abstract
 
