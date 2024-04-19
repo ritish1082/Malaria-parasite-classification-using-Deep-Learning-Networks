@@ -1,6 +1,10 @@
 # Malaria parasite classification using Deep Learning Networks (IEEE GCITC 2023 conference)
 
-[GCIT conference paper](https://github.com/ritish1082/Malaria-parasite-classification-using-Deep-Learning-Networks/blob/main/GCITC-2023-conference-paper.pdf)
+[IEEE Xplore](https://ieeexplore.ieee.org/document/10426537/)
+
+[GCIT Manuscript](https://github.com/ritish1082/Malaria-parasite-classification-using-Deep-Learning-Networks/blob/main/GCITC-2023-conference-paper.pdf)
+
+
 
 ### Abstract
 
