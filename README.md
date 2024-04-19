@@ -2,10 +2,6 @@
 
 [IEEE Xplore](https://ieeexplore.ieee.org/document/10426537/)
 
-[GCIT Manuscript](https://github.com/ritish1082/Malaria-parasite-classification-using-Deep-Learning-Networks/blob/main/GCITC-2023-conference-paper.pdf)
-
-
-
 ### Abstract
 
 Malaria is a global health threat caused by the Plasmodium parasite. The early identification and classification of the parasite are vital for prompt treatment and improved patient outcomes. However, traditional detection methods depend heavily on expert knowledge for accurate diagnosis,
